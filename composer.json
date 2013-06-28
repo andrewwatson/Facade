@@ -1,6 +1,19 @@
 {
-    "name" : "github.com/andrewwatson/facade"
-    "require" : {
+    "name": "facade/facade",
+    "type": "library",
+    "description": "REST API Facade classes in PHP",
+    "keywords": ["REST","facade"],
+    "homepage": "http://github.com/andrewwatson/facade",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew WAtson",
+            "email": "andrewmoorewatson@gmail.com",
+            "homepage": "http://andrewwatson.me",
+            "role": "Developer"
+        }
+    ],
+    "require": {
         "php": ">=5.3.0"
     }
 }
